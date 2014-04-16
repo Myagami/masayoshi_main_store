@@ -7,6 +7,6 @@ depends:
   - gtk
 version: '0.91'
 author: masayoshi_main
-name: Include_File_Test
+name: Include_File_Test(開発用)
 description: file include action monitor
 repository: git@github.com:masayoshimashita/mikutter_Include_File_Test.git

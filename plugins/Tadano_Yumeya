@@ -7,6 +7,6 @@ depends:
   - gtk
 version: '0.01'
 author: masayoshi_main
-name: せやけど、それはただの夢や
+name: せやけど、それはただの夢や(開発版)
 description: 何か悪いことがあった時に相手に投げかける
 repository: git@github.com:masayoshimashita/mikutter_Tadano_Yumeya.git
